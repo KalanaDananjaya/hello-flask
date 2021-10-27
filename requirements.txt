@@ -12,7 +12,7 @@ blinker==1.4
 charade==1.0.3
 cntk==2.7
 cryptography==2.6.1
-dask==1.2.2
+dask==2021.10.0
 python-dotenv==0.10.2
 genapi==0.0.8
 google_api_python_client==1.7.8
