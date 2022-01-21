@@ -1,7 +1,7 @@
 cffi==1.12.2
 greenlet==0.4.15
 Cython==0.29.7
-ipython==7.5.0
+ipython==7.16.3
 Numeric==24.2
 pyOpenSSL==19.0.0
 PyQt4==4.11.4
