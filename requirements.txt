@@ -18,7 +18,7 @@ genapi==0.0.8
 google_api_python_client==1.7.8
 ipaddr==2.2.0
 libmc==1.2.0
-lxml==4.3.3
+lxml==4.9.1
 matplotlib==3.1.0
 python_memcached==1.59
 mock==3.0.5
